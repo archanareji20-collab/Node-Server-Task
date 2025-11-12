@@ -1,0 +1,21 @@
+
+[
+  {
+    "name": "John",
+    "age": 20,
+    "grade": "A",
+    "total_marks": 450
+  },
+  {
+    "name": "Alice",
+    "age": 19,
+    "grade": "B",
+    "total_marks": 400
+  },
+  {
+    "name": "Bob",
+    "age": 21,
+    "grade": "A+",
+    "total_marks": 480
+  }
+]
